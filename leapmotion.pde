@@ -1,3 +1,3 @@
-import de.voidplus.leapmotion.*;
+//import de.voidplus.leapmotion.*;
 
-LeapMotion leap;
+//LeapMotion leap;

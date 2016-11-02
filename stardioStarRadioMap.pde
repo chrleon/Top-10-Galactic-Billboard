@@ -1,5 +1,5 @@
-import de.voidplus.leapmotion.*;
-import development.*;
+//import de.voidplus.leapmotion.*;
+//import development.*;
 
 
 
@@ -36,7 +36,7 @@ colorMode(HSB,360,100,100,1.0);
 background(240,100,10);
 noStroke();
 
-leap = new LeapMotion(this);
+//leap = new LeapMotion(this);
 
 maxim = new Maxim(this);
 
@@ -73,7 +73,7 @@ table = loadTable("starsWithin50LightYears.csv","header");
 void draw(){
   drawStars();
   
-float handRoll = hand.getRoll();  
+//float handRoll = hand.getRoll();  
 
 
 }  
